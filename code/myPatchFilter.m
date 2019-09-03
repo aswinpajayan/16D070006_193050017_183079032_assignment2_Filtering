@@ -17,7 +17,7 @@ iso_mask = iso_mask /sum(c(:));
 
 smoothen = @patch_filter;
 %tuning the free parameter
-for h_square = [10800 12000 13200] 
+for h_square = 12000
     
 	tic;
     %adding gaussian noise to corrupt the image
