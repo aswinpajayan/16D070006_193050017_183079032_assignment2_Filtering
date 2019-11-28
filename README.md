@@ -1,3 +1,3 @@
-# 16D070006_193050017_183079032_assignment2_Filtering
+# Non Local Means Filtering
 
 A simple straight forward implementation of Non local means filtering for edge preserving smoothening
